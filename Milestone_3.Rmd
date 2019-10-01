@@ -1,0 +1,28 @@
+---
+title: "Milestone 3: Data Set Selection and Project Details"
+author: "Liz M."
+date: "9/30/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+                      
+```
+
+## IOM Yemen Migration Flow Monitoring Data
+
+### Overview of data
+
+My data set comes from the International Organization for Migration (IOM) as part of their tracking and reporting initiative for migrants entering Yemen, as well as Internally Displaced and recently returned Yemenis. 
+
+An example of the data can be found here: https://migration.iom.int/datasets/yemen-%E2%80%94-flow-monitoring-dataset-august-2019.
+
+### What I have done so far 
+
+The only data set I have so far is for August 2019. I have requested the data for other months; hopefully the IOM will share it with me. 
+
+### What I plan to do with the data
+
+Because data sets on this topic are limited, my plan is quite fluid at this point. If I get data that span at least a year, I plan to map migrant flows into Yemen from Ethiopia, Djibouti, and Somalia into Yemen, as well as Internally Displaced (IDP) and recently returned Yemenis, focusing on town of origin, the towns they transit through in Yemen, and where their ultimate destination is.  
+
